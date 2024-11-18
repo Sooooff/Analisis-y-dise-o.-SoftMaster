@@ -30,7 +30,7 @@ namespace SoftMaster
 
         private void modulosPrin_Load(object sender, EventArgs e)
         {
-
+            //nuevo commit sofia 
         }
     }
 }
