@@ -28,7 +28,7 @@ namespace SoftMaster
 
       private void Form1_Load(object sender, EventArgs e)
       {
-         
+          //dfdfc
       }
 
       private void bIniciarSecion_Click(object sender, EventArgs e)
