@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Git hub\\Analisis-y-dise-o.-SoftMaster\\SoftMaster1.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|C:\\Users\\Lenovo\\Desktop\\Git hub\\Analisis-y-dise-o.-SoftMaster\\SoftMaster1.2\\iniciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|c:\\users\\lenovo\\desktop\\git hub\\analisis-y-dise-o.-softmaster\\softmaster1.2\\iniciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|solutionrelative:iniciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|c:\\users\\lenovo\\desktop\\git hub\\analisis-y-dise-o.-softmaster\\softmaster1.2\\iniciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|C:\\Users\\Lenovo\\Desktop\\Git hub\\Analisis-y-dise-o.-SoftMaster\\SoftMaster1.2\\iniciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|solutionrelative:iniciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|c:\\users\\lenovo\\desktop\\git hub\\analisis-y-dise-o.-softmaster\\softmaster1.2\\inventarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|C:\\Users\\Lenovo\\Desktop\\Git hub\\Analisis-y-dise-o.-SoftMaster\\SoftMaster1.2\\inventarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|solutionrelative:inventarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|c:\\users\\lenovo\\desktop\\git hub\\analisis-y-dise-o.-softmaster\\softmaster1.2\\modulosprin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|C:\\Users\\Lenovo\\Desktop\\Git hub\\Analisis-y-dise-o.-SoftMaster\\SoftMaster1.2\\modulosprin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|solutionrelative:modulosprin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -69,8 +69,7 @@
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Git hub\\Analisis-y-dise-o.-SoftMaster\\SoftMaster1.2\\InventarioForm.cs [Dise\u00F1o]",
               "RelativeToolTip": "InventarioForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T20:05:37.689Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-18T20:05:37.689Z"
             },
             {
               "$type": "Document",
@@ -82,8 +81,7 @@
               "RelativeToolTip": "modulosPrin.cs",
               "ViewState": "AgIAABcAAAAAAAAAAADgvyEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:39:36.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:39:36.299Z"
             },
             {
               "$type": "Document",

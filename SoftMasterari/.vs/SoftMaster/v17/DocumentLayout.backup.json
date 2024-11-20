@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|c:\\users\\lenovo\\desktop\\softmasterari\\softmaster\\modulosprin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|solutionrelative:modulosprin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\modulosprin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|solutionrelative:modulosprin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|c:\\users\\lenovo\\desktop\\softmasterari\\softmaster\\pagreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|solutionrelative:pagreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|c:\\users\\lenovo\\desktop\\softmasterari\\softmaster\\pagreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|solutionrelative:pagreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|c:\\users\\lenovo\\desktop\\softmasterari\\softmaster\\iniciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|solutionrelative:iniciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|c:\\users\\lenovo\\desktop\\softmasterari\\softmaster\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|solutionrelative:inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\iniciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|solutionrelative:iniciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A4A290-6BB6-4ADD-BA7C-35FB7EFDA0C3}|SoftMaster.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pagReporte.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\pagReporte.cs",
+              "RelativeDocumentMoniker": "pagReporte.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\pagReporte.cs",
+              "RelativeToolTip": "pagReporte.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAnwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:15:44.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "modulosPrin.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\modulosPrin.cs",
+              "RelativeDocumentMoniker": "modulosPrin.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\modulosPrin.cs",
+              "RelativeToolTip": "modulosPrin.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAArwCYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:06:26.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pagReporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\pagReporte.cs",
+              "RelativeDocumentMoniker": "pagReporte.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\pagReporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "pagReporte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:56:51.441Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Iniciar.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\Iniciar.cs",
+              "RelativeDocumentMoniker": "Iniciar.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\Iniciar.cs",
+              "RelativeToolTip": "Iniciar.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAMwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:25:37.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\Inventario.cs",
+              "RelativeDocumentMoniker": "Inventario.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\Inventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:24:27.006Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "modulosPrin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\modulosPrin.cs",
+              "RelativeDocumentMoniker": "modulosPrin.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\modulosPrin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "modulosPrin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:54:38.6Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:54:35.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Iniciar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\Iniciar.cs",
+              "RelativeDocumentMoniker": "Iniciar.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SoftMasterari\\SoftMaster\\Iniciar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Iniciar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:54:34.624Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
