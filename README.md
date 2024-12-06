@@ -9,9 +9,16 @@ de procesos manuales. Esto reduce costos y mejora la precisión. La inversión i
 software, hardware y capacitación. Se espera un retorno de inversión (ROI) en 1.5 años, con costos anuales de 
 mantenimiento de $900.
 
-Desarrolladores del proyecto: 
+Desarrolladores del proyecto:
+
 Ana Sofia Fuentes Valladares 
 Jan Carlo Paramo Gutiérrez
 Ariana Vanessa Ávila Fajardo 
 Kelly Xaviera Fuentes Areas
 Carlos Adrian Larios Núñez
+
+** Los archivos en las ramas son parte del proceso de creación del archivo final, pero la entrega final se 
+encuentra en el documento en main **
+
+![image](https://github.com/user-attachments/assets/2babeb06-a1e4-41fa-a904-3c0934db32d1)
+
