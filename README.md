@@ -32,5 +32,6 @@ encuentra en el documento en main **
 
 
 
-![image](https://github.com/user-attachments/assets/2babeb06-a1e4-41fa-a904-3c0934db32d1)
+![image](https://github.com/user-attachments/assets/6c98e1d2-cf4f-414b-8635-a69197af7312)
+
 
