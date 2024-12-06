@@ -15,15 +15,15 @@ mantenimiento de $900.
 Desarrolladores del proyecto:
 
 
-Ana Sofia Fuentes Valladares 
+- Ana Sofia Fuentes Valladares 
 
-Jan Carlo Paramo Gutiérrez
+- Jan Carlo Paramo Gutiérrez
 
-Ariana Vanessa Ávila Fajardo 
+- Ariana Vanessa Ávila Fajardo 
 
-Kelly Xaviera Fuentes Areas
+- Kelly Xaviera Fuentes Areas
 
-Carlos Adrian Larios Núñez
+- Carlos Adrian Larios Núñez
 
 
 
