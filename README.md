@@ -27,8 +27,8 @@ Desarrolladores del proyecto:
 
 
 
-** Los archivos en las ramas son parte del proceso de creación del archivo final, pero la entrega final se 
-encuentra en el documento en main **
+             Los archivos en las ramas son parte del proceso de creación del archivo final,
+                       pero la entrega final se encuentra en el documento en main 
 
 
 
